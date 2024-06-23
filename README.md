@@ -2,14 +2,15 @@
   src="https://github.com/DC-Cunningham/DC-Cunningham/raw/master/MTB_Animation.gif"
   width="854"
 />
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; padding: 12px">
+<div 
+        width="100"
+  style="display: flex; justify-content: center; align-items: center; gap: 12px; padding: 12px">
   <p >
     Find me on
   </p>
     <a href="https://www.linkedin.com/in/dc-cunningham/">
       <img
         src="https://github.com/DC-Cunningham/DC-Cunningham/raw/master/LI-Logo.png"
-        width="100"
     /></a>
     <p>
         or at
