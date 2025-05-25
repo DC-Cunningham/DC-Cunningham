@@ -2,6 +2,7 @@
   src="https://github.com/DC-Cunningham/DC-Cunningham/raw/master/MTB_Animation.gif"
   width="854"
 />
+
 <div 
         width="100"
   style="display: flex; justify-content: center; align-items: center; gap: 12px; padding: 12px">
@@ -17,7 +18,7 @@
         </p>
     <a href="https://www.beautifulrevolution.com.au/">
       <img
-        src="https://www.beautifulrevolution.com.au/static/media/TBR_WebHeader_880x218_Dual.ee96500c.png"
+        src="https://www.beautifulrevolution.com.au/static/media/TBR_WebHeader_880x218_Dual.479856ec7fc7f1da37d8.png"
         width="200"
     /></a>
   </p>
